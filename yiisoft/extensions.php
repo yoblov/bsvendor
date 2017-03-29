@@ -273,15 +273,6 @@ return array (
       '@kartik/widgets' => $vendorDir . '/kartik-v/yii2-widgets',
     ),
   ),
-  'linslin/yii2-curl' => 
-  array (
-    'name' => 'linslin/yii2-curl',
-    'version' => '1.1.1.0',
-    'alias' => 
-    array (
-      '@linslin/yii2/curl' => $vendorDir . '/linslin/yii2-curl',
-    ),
-  ),
   'kartik-v/yii2-tabs-x' => 
   array (
     'name' => 'kartik-v/yii2-tabs-x',
@@ -316,6 +307,24 @@ return array (
     'alias' => 
     array (
       '@yii/faker' => $vendorDir . '/yiisoft/yii2-faker',
+    ),
+  ),
+  'linslin/yii2-curl' => 
+  array (
+    'name' => 'linslin/yii2-curl',
+    'version' => '1.1.2.0',
+    'alias' => 
+    array (
+      '@linslin/yii2/curl' => $vendorDir . '/linslin/yii2-curl',
+    ),
+  ),
+  '2amigos/yii2-multi-select-widget' => 
+  array (
+    'name' => '2amigos/yii2-multi-select-widget',
+    'version' => '0.1.1.0',
+    'alias' => 
+    array (
+      '@dosamigos/multiselect' => $vendorDir . '/2amigos/yii2-multi-select-widget',
     ),
   ),
   'newerton/yii2-fancybox' => 
