@@ -40,6 +40,7 @@ class ComposerStaticInit0a617784ba8b4f581a727fe7bffb57eb
         ),
         'k' => 
         array (
+            'kop\\y2sp\\' => 9,
             'kartik\\widgets\\' => 15,
             'kartik\\typeahead\\' => 17,
             'kartik\\touchspin\\' => 17,
@@ -170,6 +171,10 @@ class ComposerStaticInit0a617784ba8b4f581a727fe7bffb57eb
         'linslin\\yii2\\curl\\' => 
         array (
             0 => __DIR__ . '/..' . '/linslin/yii2-curl',
+        ),
+        'kop\\y2sp\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kop/yii2-scroll-pager',
         ),
         'kartik\\widgets\\' => 
         array (

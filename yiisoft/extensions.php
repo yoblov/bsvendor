@@ -336,4 +336,13 @@ return array (
       '@newerton/fancybox' => $vendorDir . '/newerton/yii2-fancybox',
     ),
   ),
+  'kop/yii2-scroll-pager' => 
+  array (
+    'name' => 'kop/yii2-scroll-pager',
+    'version' => '9999999-dev',
+    'alias' => 
+    array (
+      '@kop/y2sp' => $vendorDir . '/kop/yii2-scroll-pager',
+    ),
+  ),
 );
