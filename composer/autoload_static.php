@@ -62,6 +62,7 @@ class ComposerStaticInit0a617784ba8b4f581a727fe7bffb57eb
             'kartik\\form\\' => 12,
             'kartik\\file\\' => 12,
             'kartik\\field\\' => 13,
+            'kartik\\export\\' => 14,
             'kartik\\dialog\\' => 14,
             'kartik\\depdrop\\' => 15,
             'kartik\\datetime\\' => 16,
@@ -260,6 +261,10 @@ class ComposerStaticInit0a617784ba8b4f581a727fe7bffb57eb
         array (
             0 => __DIR__ . '/..' . '/kartik-v/yii2-field-range',
         ),
+        'kartik\\export\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kartik-v/yii2-export',
+        ),
         'kartik\\dialog\\' => 
         array (
             0 => __DIR__ . '/..' . '/kartik-v/yii2-dialog',
@@ -419,6 +424,10 @@ class ComposerStaticInit0a617784ba8b4f581a727fe7bffb57eb
             'PayPal' => 
             array (
                 0 => __DIR__ . '/..' . '/paypal/sdk-core-php/lib',
+            ),
+            'PHPExcel' => 
+            array (
+                0 => __DIR__ . '/..' . '/phpoffice/phpexcel/Classes',
             ),
         ),
         'L' => 

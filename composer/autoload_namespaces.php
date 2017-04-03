@@ -14,6 +14,7 @@ return array(
     'PayPal\\EBLBaseComponents' => array($vendorDir . '/paypal/merchant-sdk-php/lib'),
     'PayPal\\CoreComponentTypes' => array($vendorDir . '/paypal/merchant-sdk-php/lib'),
     'PayPal' => array($vendorDir . '/paypal/sdk-core-php/lib'),
+    'PHPExcel' => array($vendorDir . '/phpoffice/phpexcel/Classes'),
     'Less' => array($vendorDir . '/oyejorge/less.php/lib'),
     'HTMLPurifier' => array($vendorDir . '/ezyang/htmlpurifier/library'),
     'Diff' => array($vendorDir . '/phpspec/php-diff/lib'),
